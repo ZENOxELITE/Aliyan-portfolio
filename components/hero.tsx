@@ -55,7 +55,7 @@ export default function Hero() {
 //     document.body.appendChild(element)
 //     element.click()
 const link = document.createElement("a")
-link.href = "/CV.pdf"
+link.href = "/cv.pdf"
 link.download = "Aliyan_Khan_CV.pdf"
 document.body.appendChild(link)
 link.click()
