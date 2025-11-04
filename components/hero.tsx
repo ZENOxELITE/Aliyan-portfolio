@@ -94,7 +94,7 @@ document.body.removeChild(link)
             </div>
 
             <p className="text-base md:text-lg text-white drop-shadow-md leading-relaxed max-w-xl">
-              I'm an 18-year-old recent graduate passionate about hospitality management and digital marketing. I enjoy
+              I'm a recent graduate passionate about hospitality management and digital marketing. I enjoy
               creating meaningful online campaigns, exploring new cultures, and continuously learning to grow both
               personally and professionally.
             </p>
