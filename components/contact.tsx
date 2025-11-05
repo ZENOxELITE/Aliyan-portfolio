@@ -157,7 +157,7 @@ export default function Contact() {
 
           <div className="flex justify-center items-center gap-6">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/aliyan__khan_111/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-200"
@@ -175,7 +175,7 @@ export default function Contact() {
               <Linkedin className="w-5 h-5 text-primary" />
             </a>
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/profile.php?id=100059002367919"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-200"
