@@ -1,15 +1,16 @@
 export default function Education() {
   const educationItems = [
     {
-      degree: "Intermediate (FSC) PRE engineering",
+      degree: "Intermediate (FSC)",
       school: "Govt. Degree Boys College 11/A Karachi",
       year: "2021–2023",
+      details: "PRe Engineering",
     },
     {
       degree: "Matriculation",
       school: "Mariam Academy",
       year: "2018–2021",
-      details: "Engineering, Manufacturing & Construction",
+      details: "Computer Science",
     },
     {
       degree: "Diploma in ACIT",
