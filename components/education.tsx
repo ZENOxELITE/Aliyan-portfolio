@@ -4,7 +4,7 @@ export default function Education() {
       degree: "Intermediate (FSC)",
       school: "Govt. Degree Boys College 11/A Karachi",
       year: "2021–2023",
-      details: "PRe Engineering",
+      details: "PRE Engineering",
     },
     {
       degree: "Matriculation",
