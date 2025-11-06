@@ -94,9 +94,7 @@ document.body.removeChild(link)
             </div>
 
             <p className="text-base md:text-lg text-white drop-shadow-md leading-relaxed max-w-xl">
-              I'm a recent graduate passionate about hospitality management and digital marketing. I enjoy
-              creating meaningful online campaigns, exploring new cultures, and continuously learning to grow both
-              personally and professionally.
+              I'm a recent graduate passionate about business management and digital marketing. I enjoy creating impactful online campaigns, exploring new business strategies, and continuously learning to grow both personally and professionally.
             </p>
 
             <div className="flex flex-wrap gap-4 pt-4">
