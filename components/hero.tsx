@@ -89,7 +89,7 @@ document.body.removeChild(link)
                 Aliyan Khan
               </h1>
               <p className="text-xl md:text-2xl text-blue-100 font-medium drop-shadow-md">
-                Aspiring Hospitality Professional & Digital Marketer
+               Business Management Graduate & Passionate Digital Marketer
               </p>
             </div>
 
